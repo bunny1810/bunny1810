@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bunny1810
+- 👋 Hi, I’m @simha sathwik (bunny)
 - 👀 I’m interested in (coding ,gaming ,editing,photography)
-- 🌱 I’m currently learning computer sciencs 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning computer science(data science)
+- 💞️ I’m looking forward to upscale my skills.
+- 📫 connect me in dvssathwik@gmail.com
+
 
 <!---
 bunny1810/bunny1810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
